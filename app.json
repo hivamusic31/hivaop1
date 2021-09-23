@@ -1,8 +1,8 @@
-https://github.com/hivamusic31/hivaop1{
-  "name": "HivaMusicBot",
+{
+  "name": "Patricia",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/hivamusic31/hivaop1",
+  "repository": "https://github.com/HEXOROP/EsportPlayer",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
